@@ -6,6 +6,6 @@
     "verse": "5.4",
     "updatetext": "ggg",
     "promokod": "QWERTY",
-    "kod": "12345"
+    "kod": "kod"
   }
 ]
