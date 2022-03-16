@@ -5,6 +5,7 @@
     "setting": "1",
     "verse": "5.4",
     "updatetext": "ggg",
-    "promokod": "QWERTY"
+    "promokod": "QWERTY",
+    "kod": "12345"
   }
 ]
