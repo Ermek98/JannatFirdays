@@ -7,6 +7,6 @@
     "updatetext": "ggg",
     "promokod": "QWEоRTY",
     "kod": "kod",
-    "video": "8"
+    "video": "9"
   }
 ]
