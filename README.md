@@ -3,7 +3,7 @@
     "title": "Бүгінгі дұға",
     "sms": "дұға",
     "setting": "1",
-    "verse": "5.61",
+    "verse": "6.0",
     "updatetext": "ggg",
     "promokod": "QWEоRTY",
     "kod": "kod",
