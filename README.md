@@ -5,8 +5,8 @@
     "setting": "1",
     "verse": "7.6",
     "updatetext": "ggg",
-    "promokod": "QWEоRTY",
-    "kod": "kod",
+    "demeu1": "Темирхан Батырхан",
+    "demeu2": "Жоламан Қуанышбек Еркебекұлы",
     "video": "15"
   }
 ]
