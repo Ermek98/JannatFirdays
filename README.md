@@ -10,7 +10,7 @@
     "demeu2": "Жоламан Қуанышбек Еркебекұлы",
     "video": "15",
     "newssetting": "no",
-    "dostup": "no",
+    "dostup": "yes",
     "promokod": "qwerty",
     "image": "https://imgs.muftyat.kz/orig/07791eda-4b0c-4c14-95ed-efe911f9448c.jpg",
     "news": "Пшпон не істеп жатырсыз, қасынбасаңызшы, жара болады ғой"
