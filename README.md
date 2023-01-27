@@ -10,11 +10,11 @@
     "demeu2": "Жоламан Қуанышбек Еркебекұлы",
     "video": "15",
     "newssetting": "yes",
-    "oraza": "no",
+    "oraza": "yes",
     "live": "hrnT2IFqyro",
     "dostup": "yes",
     "promokod": "qwerty",
     "image": "https://imgs.muftyat.kz/orig/07791eda-4b0c-4c14-95ed-efe911f9448c.jpg",
-    "news": "Ол (Алла тағала) қайсыбірің анағұрлым игі һәм сауапты іс істер екен деп, бәріңді сынап көру үшін өлім мен өмірді жаратты. ("Мүлік" сүресі, 2)"
+    "news": "ggg"
   }
 ]
