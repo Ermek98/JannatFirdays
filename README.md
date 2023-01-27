@@ -8,12 +8,12 @@
     "demeu1": "Темирхан Батырхан",
     "demeu2": "Жоламан Қуанышбек Еркебекұлы",
     "video": "15",
-    "newssetting": "no",
+    "newssetting": "yes",
     "oraza": "no",
     "live": "hrnT2IFqyro",
-    "dostup": "no",
+    "dostup": "yes",
     "promokod": "qwerty",
     "image": "https://imgs.muftyat.kz/orig/07791eda-4b0c-4c14-95ed-efe911f9448c.jpg",
-    "news": "ggg"
+    "news": "Рамазан айына 3 күн қалды"
   }
 ]
