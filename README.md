@@ -9,10 +9,10 @@
     "demeu1": "Темирхан Батырхан",
     "demeu2": "Жоламан Қуанышбек Еркебекұлы",
     "video": "15",
-    "newssetting": "yes",
-    "oraza": "yes",
+    "newssetting": "no",
+    "oraza": "no",
     "live": "hrnT2IFqyro",
-    "dostup": "yes",
+    "dostup": "no",
     "promokod": "qwerty",
     "image": "https://imgs.muftyat.kz/orig/07791eda-4b0c-4c14-95ed-efe911f9448c.jpg",
     "news": "ggg"
