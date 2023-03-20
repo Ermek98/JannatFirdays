@@ -15,7 +15,7 @@
     "kod3": "6579",
     "video": "15",
     "newssetting": "no",
-    "oraza": "no",
+    "oraza": "yes",
     "live": "hrnT2IFqyro",
     "dostup": "yes",
     "promokod": "qwerty",
