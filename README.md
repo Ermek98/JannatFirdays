@@ -12,7 +12,7 @@
     "demeu5": "бос орын",
     "kod1": "3545",
     "kod2": "3578",
-    "kod3": "4665",
+    "kod3": "5679",
     "video": "15",
     "newssetting": "no",
     "newstext": "text",
