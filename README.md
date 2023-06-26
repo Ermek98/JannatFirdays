@@ -15,12 +15,12 @@
     "kod3": "0744",
     "video": "15",
     "newssetting": "yes",
-    "newstext": "Құрбан айт намаз уақыты",
+    "news": "Құрбан айт намаз уақыты",
     "oraza": "no",
     "live": "hrnT2IFqyro",
     "dostup": "yes",
     "promokod": "qwerty",
     "image": "https://imgs.muftyat.kz/orig/07791eda-4b0c-4c14-95ed-efe911f9448c.jpg",
-    "news": "Рамазан айына 3 күн қалды"
+    "newstext": "Рамазан айына 3 күн қалды"
   }
 ]
