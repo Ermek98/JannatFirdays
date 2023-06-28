@@ -15,7 +15,7 @@
     "kod3": "0744",
     "video": "15",
     "newssetting": "no",
-    "news": "Құрбан айт намаз уақыты",
+    "news": "Құрбан айт құтты болсын!",
     "oraza": "no",
     "live": "hrnT2IFqyro",
     "dostup": "yes",
