@@ -15,7 +15,7 @@
     "kod3": "0744",
     "video": "15",
     "newssetting": "yes",
-    "news": "ЕСКЕРТУ!!!",
+    "news": "Жақсы жаңалық!",
     "oraza": "no",
     "live": "hrnT2IFqyro",
     "dostup": "yes",
