@@ -14,7 +14,7 @@
     "kod2": "9687",
     "kod3": "0744",
     "video": "15",
-    "newssetting": "yes",
+    "newssetting": "no",
     "news": "Жақсы жаңалық!",
     "oraza": "no",
     "live": "hrnT2IFqyro",
