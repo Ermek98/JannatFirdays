@@ -14,7 +14,7 @@
     "kod2": "9767",
     "kod3": "5667",
     "video": "15",
-    "newssetting": "yes",
+    "newssetting": "no",
     "news": "СБОР ЖАБЫҚ",
     "oraza": "no",
     "live": "hrnT2IFqyro",
