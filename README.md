@@ -15,7 +15,7 @@
     "kod3": "7683",
     "video": "15",
     "newssetting": "no",
-    "news": "test1",
+    "news": "Жақсы жаңалық, көру үшін үстінен басыңыз",
     "oraza": "no",
     "live": "hrnT2IFqyro",
     "dostup": "yes",
