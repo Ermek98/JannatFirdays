@@ -14,7 +14,7 @@
     "kod2": "0788",
     "kod3": "7683",
     "video": "15",
-    "newssetting": "yes",
+    "newssetting": "no",
     "news": "test1",
     "oraza": "no",
     "live": "hrnT2IFqyro",
