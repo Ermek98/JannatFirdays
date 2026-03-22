@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Love Game 🔥</title>
+
+<style>
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+    background: linear-gradient(135deg, #0f0f0f, #1a1a1a);
+    color: white;
+    padding: 40px;
+  }
+
+  h1 {
+    margin-bottom: 10px;
+  }
+
+  #status {
+    opacity: 0.7;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(5, 60px);
+    gap: 15px;
+    justify-content: center;
+    margin-top: 30px;
+  }
+
+  button {
+    height: 60px;
+    font-size: 20px;
+    border-radius: 14px;
+    border: none;
+    background: linear-gradient(135deg, #ff4d6d, #ff758f);
+    color: white;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+
+  button:active {
+    transform: scale(0.9);
+  }
+
+  #result {
+    margin-top: 40px;
+    font-size: 22px;
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.4;
+  }
+
+  .hidden {
+    display: none;
+  }
+</style>
+</head>
+
+<body>
+
+<h1>🔥 Love Game</h1>
+<p id="status">Бір санды таңда 👇</p>
+
+<div class="grid" id="buttons">
+  <button onclick="select()">1</button>
+  <button onclick="select()">2</button>
+  <button onclick="select()">3</button>
+  <button onclick="select()">4</button>
+  <button onclick="select()">5</button>
+  <button onclick="select()">6</button>
+  <button onclick="select()">7</button>
+  <button onclick="select()">8</button>
+  <button onclick="select()">9</button>
+  <button onclick="select()">10</button>
+</div>
+
+<div id="result"></div>
+
+<script>
+const task = "😈 Енді: 3 минут бойы толық контрольды бер және қарсы болма";
+
+// Бет ашылғанда тексеру
+window.onload = function () {
+  const selected = localStorage.getItem("love_game_done");
+
+  if (selected === "true") {
+    document.getElementById("status").innerText = "❌ Сен уже таңдадың";
+    document.getElementById("buttons").classList.add("hidden");
+    document.getElementById("result").innerText = task;
+  }
+};
+
+function select() {
+  // Сақтаймыз
+  localStorage.setItem("love_game_done", "true");
+
+  // Кнопкаларды жасырамыз
+  document.getElementById("buttons").classList.add("hidden");
+
+  // Кішкене эффект
+  document.getElementById("status").innerText = "⏳ Таңдалуда...";
+  
+  setTimeout(() => {
+    document.getElementById("status").innerText = "😏 Таңдалды...";
+    document.getElementById("result").innerText = task;
+  }, 1200);
+}
+</script>
+
+</body>
+</html>
